@@ -1,0 +1,5 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+<h1>@Localizer["WelcomeMessage"]</h1>
+<p>Aktif dil: @System.Threading.Thread.CurrentThread.CurrentUICulture</p>
