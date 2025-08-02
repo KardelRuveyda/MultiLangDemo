@@ -32,7 +32,7 @@ MultiLangDemo/
 
 ### ✅ Requirements
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download)
 - Visual Studio Code or Visual Studio 2022+
 - Git (optional)
 
